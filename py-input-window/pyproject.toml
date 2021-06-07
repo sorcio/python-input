@@ -1,0 +1,7 @@
+[project]
+name = "py_input_window"
+version = "0.1.0"
+description = "Input window"
+
+[build-system]
+requires = ["setuptools", "wheel", "setuptools-rust"]

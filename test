@@ -1,0 +1,3 @@
+#!/bin/sh
+
+pip install ./py-input-window && python test.py
